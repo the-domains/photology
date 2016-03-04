@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Photology]]></title>
+        <description><![CDATA[Photology]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 19:00:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ice Caves Under Mendenhall Glacier]]></title>
+            <description><![CDATA[<article><h1>Ice Caves Under Mendenhall Glacier</h1><p>Mendenhall, the famously 12 mile long, 150 foot deep and half mile wide glacier melts as you watch it, and moves as much as 60–70 feet per year. The massive glacial geography and its changes over time are a sight to be seen. But it’s real beauty lies beneath. Beneath the seracs of “ice peaks” all over the glacier. Beneath the trails that wind the non-touristy western half of the glacier. Under the white outer-coating of the glacial ice itself–a beautiful if only superficial “cover”–one finds a brilliantly colored world of ice caves unlike anything I’ve found anywhere else in nature.</p></article>]]></description>
+            <link>undefinedd22cdff6-4f35-43e7-bf3d-2d27cad93a4d/index.html</link>
+            <guid isPermaLink="false">d22cdff6-4f35-43e7-bf3d-2d27cad93a4d</guid>
+            <pubDate>Fri, 04 Mar 2016 18:59:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
