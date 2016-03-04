@@ -2,6 +2,7 @@ name: photology
 favicon: null
 layout_spectrum: 0.06892256066203117
 typography_spectrum: 0.19909031735733151
+title: Photology
 cta:
   domain: null
   bucket: null
