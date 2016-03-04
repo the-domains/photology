@@ -1,6 +1,6 @@
 name: photology
 favicon: null
-layout_spectrum: 0.07411
+layout_spectrum: 0.95585
 typography_spectrum: 0.49003
 title: Photology
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#2088d1'
+    - '#0f66ad'
+    - '#002665'
+    - '#a3cffe'
+    - '#7dbaf1'
   brandStrength: 0.8340279655531049
   lightness: 0.009636500384658575
   saturation: 0.17039971402846277
